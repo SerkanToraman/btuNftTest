@@ -1,5 +1,0 @@
-sui client ptb \
-  --move-call 0x5d0f2c0c24163f645ad1838d80216473f7e423690c137eb5e9d7316686bc9e8c::nfttest::mint_nft \
-  0xbf05e6d6911fd91c3cfbc3c9a2244bcc3caa426fcde61c35b1cd1ef3d427625b \
-  0xd4f42251fdf8b013c4aa7539ea99f8ceb873f6ff137ef7f9ec50dca56fcee9df \
-  '"TestNft Title"' '"TestNft Description"' '"https://storage.googleapis.com/nfts_sui_550009/btuNft.png"'
